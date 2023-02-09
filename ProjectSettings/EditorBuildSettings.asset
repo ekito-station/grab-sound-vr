@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/With XR Interaction Toolkit.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/With Oculus Integration.unity
     guid: 33b8461dca1c4d94699cc0fd3777641d
+  - enabled: 1
+    path: Assets/Scenes/With Oculus Integration 2.unity
+    guid: b270f596f770db24d80c4310ed042284
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 281ea0803dea51d40a32fd8357864ea4, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d52a11a0334aa77418778406d9738110, type: 2}
