@@ -9,3 +9,4 @@ This is a sample application to grab an object that makes sound in VR space.
 ## Requirements
 - Windows 11
 - Unity 2021.3.16f1
+- Meta Quest 2
